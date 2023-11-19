@@ -33,7 +33,7 @@ To replicate or contribute to this project, ensure you have the following prereq
 
 ## Architecture 
 
-![My Image](https://drive.google.com/uc?id=16SFk9G2mn38YKYVT-nTXDbf2MYRy_XjE)
+![My Image](https://user-images.githubusercontent.com/101070973/284085758-2bbeb9a9-1430-458a-99cc-563fe13b36ea.png)
 
 
 ## Usage
