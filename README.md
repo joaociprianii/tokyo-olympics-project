@@ -31,6 +31,11 @@ To replicate or contribute to this project, ensure you have the following prereq
 - **Azure Databricks:** Configure Azure Databricks for data processing and transformation.
 - **Azure Synapse Analytics:** Create an instance to house the transformed data and enable advanced analytics.
 
+## Architecture 
+
+![My Image](https://drive.google.com/uc?id=16SFk9G2mn38YKYVT-nTXDbf2MYRy_XjE)
+
+
 ## Usage
 
 Detailed instructions on how to use, contribute, and navigate the project are available in the [Usage](#usage) section of the README. This includes guidance on querying the data using Azure Synapse Analytics.
